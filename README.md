@@ -2,6 +2,9 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479y1rawmvjv7wyzfcr0jzizi9zpr592ylf85uue55&rid=giphy.gif&ct=g" width="120"/>
 </div>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/77155721/169866964-92e76f9f-fe14-4266-a635-eb21a5208e1e.png" width="120"/>
+</div>
 ![Hello world!!](https://user-images.githubusercontent.com/77155721/169866964-92e76f9f-fe14-4266-a635-eb21a5208e1e.png)
 <div id="badges">
   <a href="https://www.linkedin.com/in/surbhi-thakur11/">
