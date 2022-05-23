@@ -9,7 +9,7 @@ Passionate about working with large amounts of data and to turn this data into i
 - 🌱 I’m currently working on skills in the domain of Data Science, Machine Learning, Data Analysis and Visualization.
 - 👯 I’m looking for an Internship to gain more domain knowledge.
 - 📫 How to reach me: <div id="badges">
-  <a href="(https://www.linkedin.com/in/surbhi-thakur11/)">
+  <a href="https://www.linkedin.com/in/surbhi-thakur11/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
