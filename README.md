@@ -1,4 +1,7 @@
-### (https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)
+### <div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)" width="100"/>
+</div>
+
 
 Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions. I also have a keen interest in the field of data visualization and am fascinated by the power to compress complex datasets into approachable and appealing graphics.
 
