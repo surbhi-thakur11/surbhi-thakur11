@@ -1,4 +1,4 @@
-### Hi there 👋
+### (https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)
 
 Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions. I also have a keen interest in the field of data visualization and am fascinated by the power to compress complex datasets into approachable and appealing graphics.
 
