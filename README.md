@@ -1,6 +1,6 @@
 ### 
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479y1rawmvjv7wyzfcr0jzizi9zpr592ylf85uue55&rid=giphy.gif&ct=g" width="100"/>
+<div id="header" align="left">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479y1rawmvjv7wyzfcr0jzizi9zpr592ylf85uue55&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions. I also have a keen interest in the field of data visualization and am fascinated by the power to compress complex datasets into approachable and appealing graphics.
