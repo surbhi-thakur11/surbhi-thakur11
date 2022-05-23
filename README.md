@@ -1,7 +1,13 @@
 ### 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479y1rawmvjv7wyzfcr0jzizi9zpr592ylf85uue55&rid=giphy.gif&ct=g" width="120"/>
 </div>
+📫 How to reach me: <div id="badges">
+  <a href="https://www.linkedin.com/in/surbhi-thakur11/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions. I also have a keen interest in the field of data visualization and am fascinated by the power to compress complex datasets into approachable and appealing graphics.
 
