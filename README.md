@@ -7,17 +7,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+</br>
 
 <h1>
   I'm Surbhi and welcome to my github profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions. I also have a keen interest in the field of data visualization and am fascinated by the power to compress complex datasets into approachable and appealing graphics.
+Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions.
 
-- 🔭 I’m currently pursuing masters in Big Data Analytics from St.Xavier's College, Mumbai
-- 🌱 I’m currently working on skills in the domain of Data Science, Machine Learning, Data Analysis and Visualization.
-- 👯 I’m looking for an Internship to gain more domain knowledge.
-- 📫 How to reach me: 
+- 🔭 I'm a Data Science post-graduate with skills and knowledge of Statistics, Data Visualization, and Machine Learning, seeking an entry level Data Science position.
+- 🌱 I’m currently working on projects in the domain of Data Science, Machine Learning, Data Analysis and Visualization .
+- 📫 How to reach me: tsurbhi2000@yahoo.com
 
 
