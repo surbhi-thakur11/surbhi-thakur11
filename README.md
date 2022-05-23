@@ -1,6 +1,6 @@
 ### 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87)" width="100"/>
+  <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" width="100"/>
 </div>
 
 Passionate about working with large amounts of data and to turn this data into information, information into insight and insight into decisions. I also have a keen interest in the field of data visualization and am fascinated by the power to compress complex datasets into approachable and appealing graphics.
