@@ -1,6 +1,6 @@
 ### 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsagar-viradiya%2Fsagar-viradiya&psig=AOvVaw1BTC4vo8nnAuQ7uT3bPLsf&ust=1653456410632000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDFvKGz9_cCFQAAAAAdAAAAABAD" width="900" height="400" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="900" height="400" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/surbhi-thakur11/">
