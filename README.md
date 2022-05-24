@@ -21,8 +21,12 @@ Passionate about working with large amounts of data and to turn this data into i
 - 📫 How to reach me: tsurbhi2000@yahoo.com
 - Language and TechStack:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/344/python--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/344/power-bi.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/fluency/344/jupyter.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/fluency/344/spyder-ide.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/external-flaticons-lineal-flat-icons/344/external-sql-computer-programming-flaticons-lineal-flat-icons.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">  
+
 </p>
 
 
