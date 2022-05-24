@@ -25,7 +25,8 @@ Passionate about working with large amounts of data and to turn this data into i
 <img src="https://img.icons8.com/color/344/power-bi.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluency/344/jupyter.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluency/344/spyder-ide.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/external-becris-flat-becris/344/external-r-data-science-becris-flat-becris.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 
