@@ -22,7 +22,7 @@ Passionate about working with large amounts of data and to turn this data into i
 - Language and TechStack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://icons8.com/icon/qYfwpsRXEcpc/power-bi" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/344/power-bi.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
