@@ -1,6 +1,6 @@
 ### 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/77155721/169866964-92e76f9f-fe14-4266-a635-eb21a5208e1e.png" width="900" height="200" />
+  <img src="https://user-images.githubusercontent.com/77155721/169866964-92e76f9f-fe14-4266-a635-eb21a5208e1e.png" width="900" height="400" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/surbhi-thakur11/">
